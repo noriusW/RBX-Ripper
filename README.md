@@ -20,13 +20,13 @@
 ### 🚀 Начало работы
 
 #### Загрузка
-Вы можете скачать готовую сборку в разделе [Releases](https://github.com/noriusW/rbx_ripper/releases).
+Вы можете скачать готовую сборку в разделе [Releases](https://github.com/noriusW/RBX-Ripper/releases/tag/release).
 
 #### Сборка из исходников
 Если у вас установлен Rust, вы можете собрать проект самостоятельно:
 
 ```bash
-git clone https://github.com/noriusW/rbx_ripper.git
+git clone https://github.com/noriusW/RBX-Ripper.git
 cd rbx_ripper
 cargo run --release
 ```
@@ -51,13 +51,13 @@ cargo run --release
 ### 🚀 Getting Started
 
 #### Download
-Pre-built binaries are available in the [Releases](https://github.com/noriusW/rbx_ripper/releases) section.
+Pre-built binaries are available in the [Releases](https://github.com/noriusW/RBX-Ripper/releases/tag/release) section.
 
 #### Building from Source
 If you have Rust installed, you can build the project manually:
 
 ```bash
-git clone https://github.com/noriusW/rbx_ripper.git
+git clone https://github.com/noriusW/RBX_Ripper.git
 cd rbx_ripper
 cargo run --release
 ```
