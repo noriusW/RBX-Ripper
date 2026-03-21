@@ -26,7 +26,7 @@
 Если у вас установлен Rust, вы можете собрать проект самостоятельно:
 
 ```bash
-git clone https://github.com/noriusW/RBX-Ripper.git
+git clone https://github.com/KintaraVault/RBX-Ripper.git
 cd rbx_ripper
 cargo run --release
 ```
@@ -51,13 +51,13 @@ cargo run --release
 ### 🚀 Getting Started
 
 #### Download
-Pre-built binaries are available in the [Releases](https://github.com/noriusW/RBX-Ripper/releases/tag/release) section.
+Pre-built binaries are available in the [Releases](https://github.com/KintaraVault/RBX-Ripper/releases/tag/release) section.
 
 #### Building from Source
 If you have Rust installed, you can build the project manually:
 
 ```bash
-git clone https://github.com/noriusW/RBX_Ripper.git
+git clone https://github.com/KintaraVault/RBX_Ripper.git
 cd rbx_ripper
 cargo run --release
 ```
