@@ -20,7 +20,7 @@
 ### 🚀 Начало работы
 
 #### Загрузка
-Вы можете скачать готовую сборку в разделе [Releases](https://github.com/noriusW/RBX-Ripper/releases/tag/release).
+Вы можете скачать готовую сборку в разделе [Releases](https://github.com/KintaraVault/RBX-Ripper/releases/tag/release).
 
 #### Сборка из исходников
 Если у вас установлен Rust, вы можете собрать проект самостоятельно:
